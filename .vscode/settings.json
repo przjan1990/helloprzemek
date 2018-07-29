@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b2139738-f6b6-4a8c-a9ba-8651ad11d209/resourceGroups/Chmurowisko/providers/Microsoft.Web/sites/helloprzemek",
+    "appService.deploySubpath": ""
+}
